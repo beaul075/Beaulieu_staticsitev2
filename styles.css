@@ -25,6 +25,9 @@ nav {
   height: 100px;
   background-color: #048863;
 }
+ol {
+  list-style: none;
+}  
 a:link {
   color: blue;
 }
